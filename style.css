@@ -25,3 +25,13 @@ img {
   margin-bottom: 15px;
   height: 30%;
 }
+
+button:hover {
+  transition: 0.2s;
+  background-color: #44de21;
+}
+
+button:active {
+  transition: 0.2s;
+  background-color: #31c410;
+}
