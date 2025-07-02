@@ -21,9 +21,10 @@ button {
 }
 
 img {
-  width: 30%;
+  width: 150px;
+  padding: 20px;
   margin-bottom: 15px;
-  height: 30%;
+  height: 150px;
 }
 
 button:hover {
